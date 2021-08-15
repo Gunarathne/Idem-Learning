@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.my_mad">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.My_MAD">
+        <activity
+            android:name=".MainActivity7"
+            android:parentActivityName=".MainActivity6"
+            android:label="@string/h5"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity6"
+            android:parentActivityName=".MainActivity5"
+            android:label="@string/h4"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity5"
+            android:parentActivityName=".MainActivity4"
+            android:label="@string/h3"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity4"
+            android:parentActivityName=".MainActivity3"
+            android:label="@string/h2"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity3"
+            android:label="@string/h1"
+            android:exported="true" />
+    </application>
+
+</manifest>

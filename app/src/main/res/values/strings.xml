@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">My_MAD</string>
+    <string name="login">User Name</string>
+    <string name="button1">Grade 1</string>
+    <string name="button2">Grade 2</string>
+    <string name="button3">Grade 3</string>
+    <string name="button4">Grade 4</string>
+    <string name="button5">Grade 5</string>
+    <string name="button6">Maths</string>
+    <string name="button7">Sinhala</string>
+    <string name="button8">English</string>
+    <string name="button9">Tamil</string>
+    <string name="button10">Environment</string>
+    <string name="button11">Submit</string>
+    <string name="button12">Tute</string>
+    <string name="button13">Answer Sheet</string>
+    <string name="question_area">Question Area</string>
+    <string name="button14">Upload</string>
+    <string name="button15">Delete</string>
+    <string name="question_area2">Student\'s Questions</string>
+    <string name="button16">Tute</string>
+    <string name="button18">Answer Sheet</string>
+    <string name="button19">Upload</string>
+    <string name="button20">Delete</string>
+    <string name="button22">Upload</string>
+    <string name="button21">Delete</string>
+    <string name="h1">Grade</string>
+    <string name="h2">Subject</string>
+    <string name="h3">Maths</string>
+    <string name="h4">Material</string>
+    <string name="h5">Tute</string>
+</resources>
