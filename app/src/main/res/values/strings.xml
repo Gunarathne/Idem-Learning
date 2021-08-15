@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Idemy Learning</string>
+    <string name="login1">Email  :</string>
+    <string name="loginu1" />
+    <string name="login2">Password  :</string>
+    <string name="loginu2" />
+    <string name="b1">Login</string>
+    <string name="r1">Register Form</string>
+    <string name="r2">User Name :</string>
+    <string name="r3" />
+    <string name="r4">E mail :</string>
+    <string name="r5">Password :</string>
+    <string name="r6">Confirm Password :</string>
+    <string name="r7" />
+    <string name="r10">Register</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="h1">E learnings</string>
+    <string name="h2">E Books</string>
+    <string name="h3">Academic Staff</string>
+    <string name="h4">Support Service</string>
+    <string name="home">Home</string>
+    <string name="ebook">Ebook Store</string>
+
+    <string name="s1">Java Programming For Beginners</string>
+    <string name="s2">By James Patterson</string>
+    <string name="s3">Price :        10$</string>
+    <string name="sb1">Add to Cart</string>
+    <string name="s4">more details</string>
+
+    <string name="sp1">C# Programming For Beginners</string>
+    <string name="sp2">By Jason Hamilton</string>
+    <string name="sp3">more detais</string>
+    <string name="sp4">Price :        8$</string>
+    <string name="sb2">Add to Cart</string>
+
+    <string name="spp">Oxford English Grammer</string>
+    <string name="spp1">By Sidney Grenbaum</string>
+    <string name="spp2">more details</string>
+    <string name="spp3">Price :        14$</string>
+    <string name="sb4">Add to Cart</string>
+
+    <string name="sppp">JavaScript for Impatient Programmers</string>
+    <string name="sppp1">By Axula Reixer</string>
+    <string name="sppp2">more details</string>
+    <string name="sppp3">Price :        28$</string>
+    <string name="sb5">Add to Cart</string>
+    <string name="sb6">Show Cart</string>
+
+    <string name="cp">Shopping Cart</string>
+    <string name="cp1">Product</string>
+    <string name="cp2">Price</string>
+    <string name="cp3">Remove Items</string>
+
+    <string name="cp4">Java Programming For Beginners</string>
+    <string name="cp5">10$</string>
+    <string name="cp7">C# Programming For Beginners</string>
+    <string name="cp6">8$</string>
+    <string name="cp8">Remove</string>
+    <string name="cp10">Remove</string>
+    <string name="cp11">Total  : 18$</string>
+    <string name="cb">Buy</string>
+    <string name="payment">Payment</string>
+    <string name="py1">Payment type</string>
+    <string name="pyr">Credit Card</string>
+    <string name="pyr1">Debit Card</string>
+    <string name="py">Card Number</string>
+    <string name="ppy" />
+    <string name="py3">Expire Date</string>
+    <string name="py4">CVC</string>
+    <string name="pyb">Pay Now</string>
+    <string name="pyb1">Cancel</string>
+    <string name="lib">Library</string>
+    <string name="re">Read</string>
+    <string name="re2">Read</string>
+    <string name="w">Idemy Learning</string>
+    <string name="wb2">Login</string>
+    <string name="wb">Register</string>
+    <string name="wp6">Power By DEVIL</string>
+
+
+</resources>
