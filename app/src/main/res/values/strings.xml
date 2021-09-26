@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Book Library</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_user_name">Enter Email</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="register">Register</string>
+    <string name="already_a_user_login_here">Already a User ? Login here</string>
+    <string name="login">Login</string>
+    <string name="new_user_register_here">New User ? Register Here</string>
+
+    <string name="enter_book_name">Enter Book Name</string>
+    <string name="enter_book_author">Enter Book Author</string>
+    <string name="enter_book_suited_for">Enter Book Suited For</string>
+    <string name="enter_book_image_link">Enter Book Image Link</string>
+    <string name="enter_book_link">Enter Book Link</string>
+    <string name="enter_book_description">Enter Book Description</string>
+    <string name="add_book">Add Books</string>
+    <string name="update_book">Update Books</string>
+    <string name="delete_book">Delete Books</string>
+
+    <string name="author">Author</string>
+    <string name="book_name">Book Name</string>
+    <string name="description">Description</string>
+    <string name="suited_for">Suited For</string>
+
+    <string name="edit_book">Edit Book</string>
+    <string name="view_details">View Book</string>
+
+    <string name="welcome_to_udemey_learnihgs">Welcome To Idemy Learnings</string>
+    <string name="getstart">Get Start</string>
+    <string name="e_learning">E Learning</string>
+    <string name="book_library">Book Library</string>
+    <string name="acedemic_staff">Staff</string>
+    <string name="service">Service</string>
+</resources>
