@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "470221507767",
+    "firebase_url": "https://testproject-7dbdc-default-rtdb.firebaseio.com",
+    "project_id": "testproject-7dbdc",
+    "storage_bucket": "testproject-7dbdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470221507767:android:53fd8bc1c8fe45135e5132",
+        "android_client_info": {
+          "package_name": "com.example.academicstaff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470221507767-s5b0kdn97n61evnlvd98ahg6lt2hlnre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg8utIb9lJoaHELUYFyzAuO5dhkLbBK7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470221507767-s5b0kdn97n61evnlvd98ahg6lt2hlnre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
