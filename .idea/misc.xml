@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dhanushka/AndroidStudioProjects/MADApplication/app/src/main/res/layout/activity_account_settings.xml" value="0.21" />
+        <entry key="..\:/Users/Dhanushka/AndroidStudioProjects/MADApplication/app/src/main/res/layout/activity_add_bug_report.xml" value="0.165625" />
+        <entry key="..\:/Users/Dhanushka/AndroidStudioProjects/MADApplication/app/src/main/res/layout/activity_add_bugs.xml" value="0.2" />
+        <entry key="..\:/Users/Dhanushka/AndroidStudioProjects/MADApplication/app/src/main/res/layout/activity_edit_bugs.xml" value="0.165625" />
+        <entry key="..\:/Users/Dhanushka/AndroidStudioProjects/MADApplication/app/src/main/res/layout/activity_getin_touch.xml" value="0.21" />
+        <entry key="..\:/Users/Dhanushka/AndroidStudioProjects/MADApplication/app/src/main/res/layout/activity_getting_started.xml" value="0.2" />
+        <entry key="..\:/Users/Dhanushka/AndroidStudioProjects/MADApplication/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/Dhanushka/AndroidStudioProjects/MADApplication/app/src/main/res/layout/activity_troubleshoot.xml" value="0.2" />
+        <entry key="..\:/Users/Dhanushka/AndroidStudioProjects/MADApplication/app/src/main/res/layout/fragment_1.xml" value="0.165625" />
+        <entry key="..\:/Users/Dhanushka/AndroidStudioProjects/MADApplication/app/src/main/res/layout/fragment_2.xml" value="0.155078125" />
+        <entry key="..\:/Users/Dhanushka/AndroidStudioProjects/MADApplication/app/src/main/res/layout/singlebug.xml" value="0.19" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.2" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

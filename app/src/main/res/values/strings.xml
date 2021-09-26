@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">MAD Application</string>
+    <string name="btn_back">BACK</string>
+    <string name="h1">Welcome to Support</string>
+    <string name="search1">Input keywords</string>
+    <string name="Search">Search1</string>
+    <string name="btn_back2">BACK</string>
+    <string name="helpbtn1">Help Option 1</string>
+    <string name="helpbtn2">Help Option 2</string>
+
+    <string name="helpbtn3">Help Option 3</string>
+    <string name="helpbtn4">Help Option 4</string>
+    <string name="helpbtn">Help Option 5</string>
+    <string name="h2">Getting started</string>
+    <string name="h3">Troubleshoot</string>
+    <string name="h31">Report BUG/ERRORS</string>
+    <string name="btn_submit1">SUBMIT</string>
+    <string name="buginput">Enter Details</string>
+    <string name="btnsubmit2">CANCEL</string>
+    <string name="trbtn1">TroubleShoot Help 1</string>
+    <string name="trbtn2">TroubleShoot Help 1</string>
+    <string name="trbtn22">Troubleshoot Help 2</string>
+    <string name="trbtn3">Troubleshoot Help 3</string>
+    <string name="trbtn4">Troubleshoot Help 4</string>
+    <string name="cuzbtn1">Customization Option 1</string>
+    <string name="cuzbtn2">Customization Option 2</string>
+    <string name="cuzbtn3">Customization Option 3</string>
+    <string name="cuzbtn4">Customization Option 4</string>
+    <string name="cuzbtn5">Customization Option 5</string>
+    <string name="input1">Enter your name</string>
+    <string name="msginput">Enter Message</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bugtitleinput" />
+    <string name="bugdescription">Description</string>
+    <string name="btn_back1">BACK</string>
+    <string name="troubleshoot_btn">Troubleshoot</string>
+    <string name="gettingstarted">Getting Started</string>
+    <string name="accountsettiongs">Account Settings</string>
+
+</resources>

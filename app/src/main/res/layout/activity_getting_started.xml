@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GettingStarted">
+
+    <Button
+        android:id="@+id/btn_back2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/btn_back"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="284dp"
+        android:layout_height="170dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="131dp"
+        tools:srcCompat="@tools:sample/backgrounds/scenic[1]" />
+
+    <LinearLayout
+        android:layout_width="379dp"
+        android:layout_height="398dp"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="317dp">
+
+        <Button
+            android:id="@+id/helpbtn1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:backgroundTint="#1474C1"
+            android:text="@string/helpbtn1" />
+
+        <Button
+            android:id="@+id/helpbtn2"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:backgroundTint="#2083D1"
+            android:text="@string/helpbtn2" />
+
+        <Button
+            android:id="@+id/helpbtn3"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:backgroundTint="#2E8BB5"
+            android:text="@string/helpbtn3" />
+
+        <Button
+            android:id="@+id/helpbtn4"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:backgroundTint="#4297BD"
+            android:text="@string/helpbtn4" />
+
+        <Button
+            android:id="@+id/helpbtn5"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:backgroundTint="#4E9CBF"
+            android:text="@string/helpbtn" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/h2"
+        android:layout_width="223dp"
+        android:layout_height="39dp"
+        android:layout_marginTop="64dp"
+        android:text="@string/h2"
+        android:textColor="#153481"
+        android:textColorHint="#8C0F0F"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
