@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Idemy Learning</string>
+    <string name="enter_subject_name">Enter Subject Name</string>
+    <string name="suited_for">Suited For</string>
+    <string name="enter_grade">Enter Grade :</string>
+    <string name="add_video">Add Video</string>
+    <string name="video_link">Video Link</string>
+    <string name="video_image_link">Video Image Link</string>
+
+
+
+    <string name="welcome_to_udemey_learnihgs">Welcome To Idemy Learnings</string>
+    <string name="getstart">Get Start</string>
+    <string name="e_learning">E Learning</string>
+    <string name="book_library">Book Library</string>
+    <string name="acedemic_staff">Staff</string>
+    <string name="service">Service</string>
+
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_user_name">Enter Email</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="register">Register</string>
+    <string name="already_a_user_login_here">Already a User ? Login here</string>
+    <string name="login">Login</string>
+    <string name="new_user_register_here">New User ? Register Here</string>
+    <string name="subject">Subject :</string>
+    <string name="grade">Grade :</string>
+    <string name="suited_for2">Suited For :</string>
+    <string name="edit_video">Edit Video</string>
+    <string name="update_videos">Update Video</string>
+    <string name="delete_videos">Delete Video</string>
+</resources>
